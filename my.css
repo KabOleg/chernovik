@@ -1,3 +1,8 @@
+.image-container {
+  background-image: url("images/keks.jpg");
+  width: 600px;
+  height: 400px;
+}
 .test{
 width: 100%;
 text-align:  center;
